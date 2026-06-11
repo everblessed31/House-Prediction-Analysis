@@ -2,11 +2,10 @@
 Regression Analysis on House Price Prediction Using Simple Linear Regression
 Project Overview
 
-##Project Overview
-
+Project Overview
 This project demonstrates the implementation of a Simple Linear Regression model to predict house prices using the Boston Housing Dataset. The analysis was carried out as part of an internship task focused on applying machine learning techniques to real-world datasets.
 
-##Objectives
+Objectives
 Load and explore the housing dataset.
 Select an appropriate predictor variable and target variable.
 Split the dataset into training and testing sets.
@@ -14,8 +13,7 @@ Train a Simple Linear Regression model using Scikit-Learn.
 Evaluate model performance using Mean Squared Error (MSE) and R-Squared (R²).
 Visualize the relationship between the predictor and target variables.
 
-##Technologies Used
-
+Technologies Used
 Python
 Pandas
 NumPy
@@ -23,14 +21,14 @@ Matplotlib
 Scikit-Learn
 Jupyter Notebook
 
-##Dataset
+Dataset
 
 The Prediction Housing Dataset contains information about housing characteristics and property values. For this analysis:
 
 Independent Variable (X): RM (Average Number of Rooms)
 Dependent Variable (y): MEDV (Median House Value)
 
-##Methodology
+Methodology
 Data Loading and Inspection
 Data Cleaning and Validation
 Exploratory Data Analysis
@@ -40,10 +38,10 @@ Prediction on Test Data
 Model Evaluation using MSE and R²
 Visualization of Regression Line
 
-##Results
+Results
 The regression model revealed a positive relationship between the average number of rooms and house prices. Houses with more rooms generally exhibited higher market values.
 
-##Key Learning Outcomes
+Key Learning Outcomes
 
 Understanding of Simple Linear Regression
 Data preprocessing and feature selection
@@ -52,7 +50,7 @@ Interpretation of regression coefficients
 Visualization of machine learning results
 
 
-##Author
+Author
 
 Blessing Ogar
 Internship Machine Learning Project
